@@ -122,7 +122,10 @@ These tools were not used due to the small dataset size but are recommended for 
 - **Future Work:** Explore FAISS or Spotify Annoy for scaling to larger datasets and implement hashing-based methods for faster search.
 
 ---
-
+## **Challenges Faced**
+- Due to limitations in the Google Colab free version, which led to computational constraints, and personal commitments, I could only dedicate three full days to this problem. Despite these challenges, extensive research and effort allowed me to produce meaningful results.
+- Looking ahead, hybrid approaches combining faster methods for initial filtering and more accurate models for ranking could optimize both speed and precision. As computational resources improve, the field of image similarity search will continue to evolve, benefiting from emerging techniques like YOLO for object detection and FAISS/Annoy for efficient search.
+---
 ## **References**
 - Pascal, Andres & Planas, Adrián & Vidal Leiva, Florencia Zoe & Bonti, Agustina & Tonelotto, Lucas & Castiglioni, León. (2024). P r e p r i n t Image Feature Extraction for Similarity Searching Using Transfer Learning with ResNet. 10.13140/RG.2.2.17101.86246.
 - Lowe, D. G. (2004). Distinctive Image Features from Scale-Invariant Keypoints. IJCV.
