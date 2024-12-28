@@ -1,0 +1,12 @@
+numpy
+matplotlib
+keras
+tensorflow
+torch
+torchvision
+transformers
+scipy
+pillow
+opencv-python
+scikit-learn
+tqdm
