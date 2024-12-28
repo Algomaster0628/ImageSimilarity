@@ -1,7 +1,7 @@
 # **Image Similarity Search: An Alternative to Google Lens**
 
 ## **Objective**
-The goal of this project is to develop an alternative to Google Lens by implementing and comparing multiple approaches for image similarity search. The methods explored include CNN-based models (ResNet-50), Vision Transformers (ViT), Autoencoders, Siamese Networks, and SIFT. Additionally, we discuss hashing-based methods and tools like FAISS and Spotify Annoy for vector similarity search, which could be utilized for larger datasets.
+The goal of this project is to develop an alternative to Google Lens by implementing and comparing multiple approaches for image similarity search. Models like Yolo,Retinanet etc could be used to draw bounding boxes around main object in the image and then Image similarity models could be deployed above that to make something like google lens using yolo models is straightforward, then we proceed to Image similarity based on that main subject in image. The methods which could be used for image similarity include CNN-based models (ResNet-50), Vision Transformers (ViT), Autoencoders, Siamese Networks, and SIFT. Additionally, we discuss hashing-based methods and tools like FAISS and Spotify Annoy for vector similarity search, which could be utilized for larger datasets.
 
 ---
 ## **How to Run**
