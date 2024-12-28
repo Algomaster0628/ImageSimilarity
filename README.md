@@ -8,7 +8,7 @@ The goal of this project is to develop an alternative to Google Lens by implemen
 - Clone the Repository
 - Install dependencies: pip install -r requirements.txt
 - run the notebook for each approach
-- Have also added links to my google colabs in link_to_notebooks.txt
+- Have also added links to my google colabs in links_to_notebooks.txt
 ---
 ## **Implemented Methods**
 
