@@ -4,6 +4,15 @@
 The goal of this project is to develop an alternative to Google Lens by implementing and comparing multiple approaches for image similarity search. Models like Yolo,Retinanet etc(using these models is straightforward so we can focus on image similarity)could be used to draw bounding boxes around main object in the image and then Image similarity models could be deployed above that to make something like google lens, then we proceed to Image similarity based on that main subject in image. The methods which could be used for image similarity include CNN-based models (ResNet-50), Vision Transformers (ViT), Autoencoders, Siamese Networks, and SIFT. Additionally, we discuss hashing-based methods and tools like FAISS and Spotify Annoy for vector similarity search, which could be utilized for larger datasets.
 
 ---
+## **Dataset Used**
+### **Fashion MNIST**
+
+- **Description:** A dataset of 70,000 grayscale images in 10 categories, with 60,000 training images and 10,000 test images.
+- **Image Size:** 28x28 pixels.
+- **Categories:** Includes T-shirts, trousers, pullovers, dresses, coats, sandals, shirts, sneakers, bags, and ankle boots.
+- **Reason for Use:** Lightweight and widely used for benchmarking image classification and similarity search methods.
+
+---
 ## **How to Run**
 - Clone the Repository
 - Install dependencies: pip install -r requirements.txt
